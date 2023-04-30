@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   <img height="159em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileslime47&layout=compact" />
 </a>
 
+
 ## My Main Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=JPEGCompressor)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=JPEGCompressor)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Smileslime47/JPEGCompressor))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=LENOVO_Y9000K_Hackintosh)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=LENOVO_Y9000K_Hackintosh)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Smileslime47/LENOVO_Y9000K_Hackintosh))
