@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Myself
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="159em" align="center" src="https://github-readme-stats.vercel.app/api?username=smileslime47" />
   <img height="159em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileslime47&layout=compact" />
 </a>
 
----
+## My Main Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=JPEGCompressor)](https://github.com/anuraghazra/github-readme-stats)
 
