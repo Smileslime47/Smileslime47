@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Myself
+[![](https://leetcode-badge.haozibi.dev/v1cn/ranking/smile_slime_47.svg?style=for-the-badge&color=FFA116&logo=leetcode) ](https://leetcode.cn/u/smile_slime_47/)
+
+![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/smile_slime_47.svg)
+![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/smile_slime_47.svg)
+
+[![](https://img.shields.io/badge/Github-Smile__slime__47-181717?style=for-the-badge&logo=github) ](https://github.com/Smileslime47)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="159em" align="center" src="https://github-readme-stats.vercel.app/api?username=smileslime47" />
