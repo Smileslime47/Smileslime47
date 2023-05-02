@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!)](https://github.com/Smileslime47)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=1200&height=60&lines=Here+is+Smile_slime_47%2C+a+Java+Developer.+Welcome+to+PM+me+if+you'd+like+discuss+about+Java.;You+can+also+call+me+LiuYibang%2C+who+is+an+undergraduate+student+of+Jinan+University+majoring+in+CS.)](https://github.com/Smileslime47)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=1200&height=60&lines=Here+is+Smile_slime_47%2C+a+Java+Developer.+Welcome+to+PM+me+if+you'd+like+to+discuss+about+Java.;You+can+also+call+me+LiuYibang%2C+who+is+an+undergraduate+student+of+Jinan+University+majoring+in+CS.)](https://github.com/Smileslime47)
 
 [![](https://img.shields.io/badge/Outlook-Smile_slime_47@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook)](mailto:Smile_slime_47@outlook.com)
 
