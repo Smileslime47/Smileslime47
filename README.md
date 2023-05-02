@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Myself
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&lines=Just+help+yourself!)](https://git.io/typing-svg)
+
 [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/smile_slime_47.svg?style=for-the-badge&color=FFA116&logo=leetcode) ](https://leetcode.cn/u/smile_slime_47/)
 
 ![](https://leetcode-badge.haozibi.dev/v1cn/card/question-process/smile_slime_47.svg)
@@ -25,6 +26,11 @@ Here are some ideas to get you started:
   <img height="159em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileslime47&layout=compact" />
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## My Main Repos
 
