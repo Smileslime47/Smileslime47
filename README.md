@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/smile_slime_47.svg?style=for-the-badge&color=FFA116&logo=leetcode) ](https://leetcode.cn/u/smile_slime_47/)
 
 <a href="https://leetcode.cn/u/smile_slime_47/">
-  <img height="180em" width="400em" align="center" src="https://leetcode-badge.haozibi.dev/v1cn/card/question-process/smile_slime_47.svg" />
-  <img height="100em" width="600em" align="center" src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/smile_slime_47.svg" />
+  <img align="center" src="https://leetcode-badge.haozibi.dev/v1cn/card/question-process/smile_slime_47.svg" />
+  <img align="center" src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/smile_slime_47.svg" />
 </a>
 
 ---
