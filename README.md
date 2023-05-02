@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/smile_slime_47.svg?style=for-the-badge&color=FFA116&logo=leetcode) ](https://leetcode.cn/u/smile_slime_47/)
 
 <a href="https://leetcode.cn/u/smile_slime_47/">
-  <img align="center" src="https://leetcode-badge.haozibi.dev/v1cn/card/question-process/smile_slime_47.svg" />
-  <img align="center" src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/smile_slime_47.svg" />
+  <img align="center" src="https://leetcard.jacoblin.cool/smile_slime_47?site=cn&ext=heatmap&font=Fira+Code" />
 </a>
 
 ---
