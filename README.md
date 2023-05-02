@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Gmail-lyb.compsci@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:lyb.compsci@gmail.com)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=1&pause=1&color=323232&repeat=false&width=1000&height=30&lines=By+the+way%2CI'm+learning+electric+guitar+now.Looking+for+other+hard+rock+fans%3A%29)](https://github.com/Smileslime47)
+
 ---
 
 [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/smile_slime_47.svg?style=for-the-badge&color=FFA116&logo=leetcode) ](https://leetcode.cn/u/smile_slime_47/)
