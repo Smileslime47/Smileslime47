@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ## My Main Repos
 
 <a href="https://github.com/Smileslime47/JPEGCompressor">
-  <img height="110em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=JPEGCompressor" />
+  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=JPEGCompressor" />
 </a>
 <a href="https://github.com/Smileslime47/LENOVO_Y9000K_Hackintosh">
-  <img height="110em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=LENOVO_Y9000K_Hackintosh" />
+  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=LENOVO_Y9000K_Hackintosh" />
 </a>
