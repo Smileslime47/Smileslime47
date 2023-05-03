@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img  src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!"
+      srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png 128w">
 
 <picture>
   <source srcset="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!">
