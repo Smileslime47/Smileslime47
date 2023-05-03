@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(min-width: 800px)" srcset="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!">
-  <source media="(max-width: 799px)" srcset="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!">
-  <img alt="test" src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!">
+  <source media="(min-width: 800px)" src="https://camo.githubusercontent.com/6096ece77beca4d440a738d427b3ed7f402abab40d111d9c2244a14a33a1bc9f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d446172756d6164726f702b4f6e652670617573653d313030302677696474683d343335266865696768743d3330266c696e65733d4a7573742b68656c702b796f757273656c6621">
+  <source media="(max-width: 799px)" src="https://camo.githubusercontent.com/6096ece77beca4d440a738d427b3ed7f402abab40d111d9c2244a14a33a1bc9f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d446172756d6164726f702b4f6e652670617573653d313030302677696474683d343335266865696768743d3330266c696e65733d4a7573742b68656c702b796f757273656c6621">
+  <img alt="test" src="https://camo.githubusercontent.com/6096ece77beca4d440a738d427b3ed7f402abab40d111d9c2244a14a33a1bc9f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d446172756d6164726f702b4f6e652670617573653d313030302677696474683d343335266865696768743d3330266c696e65733d4a7573742b68656c702b796f757273656c6621">
 </picture>
 
 <picture>
