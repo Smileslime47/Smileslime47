@@ -12,17 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<picture>
-  <source media="(min-width: 800px)" src="https://camo.githubusercontent.com/6096ece77beca4d440a738d427b3ed7f402abab40d111d9c2244a14a33a1bc9f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d446172756d6164726f702b4f6e652670617573653d313030302677696474683d343335266865696768743d3330266c696e65733d4a7573742b68656c702b796f757273656c6621">
-  <source media="(max-width: 799px)" src="https://camo.githubusercontent.com/6096ece77beca4d440a738d427b3ed7f402abab40d111d9c2244a14a33a1bc9f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d446172756d6164726f702b4f6e652670617573653d313030302677696474683d343335266865696768743d3330266c696e65733d4a7573742b68656c702b796f757273656c6621">
-  <img alt="test" src="https://camo.githubusercontent.com/6096ece77beca4d440a738d427b3ed7f402abab40d111d9c2244a14a33a1bc9f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d446172756d6164726f702b4f6e652670617573653d313030302677696474683d343335266865696768743d3330266c696e65733d4a7573742b68656c702b796f757273656c6621">
-</picture>
-
-<picture>
-  <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=1200&height=60&lines=Here+is+Smile_slime_47%2C+a+Java+Developer.+Welcome+to+PM+me+if+you'd+like+to+discuss+about+Java.;You+can+also+call+me+LiuYibang%2C+who+is+an+undergraduate+student+of+Jinan+University+majoring+in+CS.">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!)](https://github.com/Smileslime47)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=1200&height=60&lines=Here+is+Smile_slime_47%2C+a+Java+Developer.+Welcome+to+PM+me+if+you'd+like+to+discuss+about+Java.;You+can+also+call+me+LiuYibang%2C+who+is+an+undergraduate+student+of+Jinan+University+majoring+in+CS.)](https://github.com/Smileslime47)
 
 [![](https://img.shields.io/badge/Outlook-Smile_slime_47@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook)](mailto:Smile_slime_47@outlook.com)
 
