@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img  src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!"
       srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png 512w,
               https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself! 435w"
-      sizes="(max-width:600px) 512px,435px">
+      sizes="(max-width:1000px) 512px,435px">
 
 <picture>
   <source srcset="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!">
