@@ -15,18 +15,21 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Smileslime47">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&size=30&pause=1000&width=435&height=40&lines=Just+help+yourself!" />
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=800&height=100&lines=Here+is+Smile_slime_47%2C+a+Java+Developer.;Welcome+to+PM+me+if+you'd+like+to+discuss+about+Java.;You+can+also+call+me+LiuYibang%2C;who+is+an+undergraduate+student+of+Jinan+University+majoring+in+CS." />
+  </br>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=800&height=110&lines=Here+is+Smile_slime_47%2C+a+Java+Developer.;Welcome+to+PM+me+if+you'd+like+to+discuss+about+Java.;You+can+also+call+me+LiuYibang%2C;who+is+an+undergraduate+student+of+Jinan+University+majoring+in+CS." />
 </a>
-
+</br>
 <a href="mailto:Smile_slime_47@outlook.com">
   <img align="center" src="https://img.shields.io/badge/Outlook-Smile_slime_47@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook" />
 </a>
-
+</br>
 <a href="mailto:lyb.compsci@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-lyb.compsci@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
 </a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=700&height=60&lines=By+the+way%2C+I'm+learning+electric+guitar+now.;Looking+for+other+hard+rock+fans%3A%29)](https://github.com/Smileslime47)
+</br>
+<a href="https://github.com/Smileslime47">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=700&height=60&lines=By+the+way%2C+I'm+learning+electric+guitar+now.;Looking+for+other+hard+rock+fans%3A%29" />
+</a>
 
 ---
 
