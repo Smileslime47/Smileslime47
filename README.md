@@ -13,12 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="@media screen and(max-width=600px){a{visible:false;}}">
-  <a href="https://github.com/Smileslime47">
-    <img  align="center" src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!" />
-    <img  align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=1200&height=60&lines=Here+is+Smile_slime_47%2C+a+Java+Developer.+Welcome+to+PM+me+if+you'd+like+to+discuss+about+Java.;You+can+also+call+me+LiuYibang%2C+who+is+an+undergraduate+student+of+Jinan+University+majoring+in+CS." />
-  </a>
-</div>
+<picture>
+  <source media="screen and (min-width:500px)" srcset="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&pause=1000&width=435&height=30&lines=Just+help+yourself!">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+<picture>
+  <source media="screen and (min-width:500px)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=1200&height=60&lines=Here+is+Smile_slime_47%2C+a+Java+Developer.+Welcome+to+PM+me+if+you'd+like+to+discuss+about+Java.;You+can+also+call+me+LiuYibang%2C+who+is+an+undergraduate+student+of+Jinan+University+majoring+in+CS.">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 [![](https://img.shields.io/badge/Outlook-Smile_slime_47@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook)](mailto:Smile_slime_47@outlook.com)
 
