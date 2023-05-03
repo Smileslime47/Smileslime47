@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Github-Smile__slime__47-181717?style=for-the-badge&logo=github) ](https://github.com/Smileslime47)
 
 <a href="https://github.com/Smileslime47">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=smileslime47" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=smileslime47&rank_icon=github" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileslime47&layout=compact" />
 </a>
 
