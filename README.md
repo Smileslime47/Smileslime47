@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 </a>
 </br>
 <a href="mailto:Smile_slime_47@outlook.com">
-  <img align="center" src="https://img.shields.io/badge/Outlook-Smile_slime_47@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook" />
+  <img height="28px" align="center" src="https://img.shields.io/badge/Outlook-Smile_slime_47@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook" />
 </a>
 </br>
 <a href="mailto:lyb.compsci@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-lyb.compsci@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+  <img height="28px" align="center" src="https://img.shields.io/badge/Gmail-lyb.compsci@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 </br>
 <a href="https://github.com/Smileslime47">
