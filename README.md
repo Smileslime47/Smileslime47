@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 </a>
 
 ---
+[![](https://www.codewars.com/users/Smileslime47/badges/large)](https://www.codewars.com/users/Smileslime47)
 
 ## My Main Repos
 
