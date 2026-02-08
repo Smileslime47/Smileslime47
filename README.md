@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Smileslime47">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&size=30&pause=1000&width=435&height=40&lines=Just+help+yourself!" />
   </br>
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=800&height=130&lines=Here+is+Smile_slime_47%2C+a+Java+and+Kotlin+Developer.;Welcome+to+PM+me+if+you'd+like+to+discuss+about+Back-End.;You+can+also+call+me+LiuYibang%2C;who+is+an+undergraduate+student+of+Jinan+University+majoring+in+CS.;↓Here+to+contact+me↓"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=800&height=130&lines=Here+is+Smile_slime_47%2C+a+Java+and+Kotlin+Developer.;Welcome+to+PM+me+if+you'd+like+to+discuss+about+Web Technology.;You+can+also+call+me+LiuYibang;↓Here+to+contact+me↓"/>
 </a>
 </br>
 <a href="mailto:Smile_slime_47@outlook.com">
@@ -26,19 +26,10 @@ Here are some ideas to get you started:
 <a href="mailto:lyb.compsci@gmail.com">
   <img width="300px" height="28px" align="center" src="https://img.shields.io/badge/Gmail-lyb.compsci@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoWidth=30" />
 </a>
-</br>
-<a href="https://github.com/Smileslime47">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=1&color=323232&multiline=true&repeat=false&width=700&height=60&lines=By+the+way%2C+I'm+learning+electric+guitar+now.;Looking+for+other+hard+rock+fans%3A%29" />
-</a>
 
 ---
 
 [![](https://img.shields.io/badge/Github-Smile__slime__47-181717?style=for-the-badge&logo=github) ](https://github.com/Smileslime47)
-
-<a href="https://github.com/Smileslime47">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=smileslime47&rank_icon=github" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileslime47&layout=compact" />
-</a>
 
 ---
 
@@ -53,9 +44,5 @@ Here are some ideas to get you started:
 
 ## My Main Repos
 
-<a href="https://github.com/Smileslime47/JPEGCompressor">
-  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=JPEGCompressor" />
-</a>
-<a href="https://github.com/Smileslime47/LENOVO_Y9000K_Hackintosh">
-  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=LENOVO_Y9000K_Hackintosh" />
-</a>
+- [JPEGCompressor](https://github.com/Smileslime47/JPEGCompressor")
+- [LENOVO_Y9000K_Hackintosh](https://github-readme-stats.vercel.app/api/pin/?username=smileslime47&repo=LENOVO_Y9000K_Hackintosh")
